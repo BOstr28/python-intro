@@ -30,3 +30,5 @@ print("Połączone listy: ", polaczone)
 # Wybor losowego elementu
 losowy = obiekt.losowy_element()
 print("Losowy element z listy: ", losowy)
+
+# GitHub: https://github.com/BOstr28/python-intro
